@@ -10,3 +10,6 @@ Steps
 5.  create src/index.html
 6.  run commant to start Tailwind:
     npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+
+    7. pasileidus VS code is naujo:
+       npm run dev
